@@ -17,7 +17,7 @@ A continuacion una breve explicaion sobre cada una de ella.
 
 
 ## Sweetviz:
-<img src="https://github.com/f3derico1991/Reportes-express/blob/master/Reportes_con_python/imagenes/sweetvez.png" width="400" height="200" />
+<img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/sweetvez.png" width="400" height="200" />
 
 #### Sweetviz es una biblioteca de Python maravillosa y muy útil que nos proporciona la EDA de un conjunto de datos dado con solo 2 líneas de código. Genera un informe de página HTML independiente con visualizaciones interactivas de un conjunto de datos.
 
