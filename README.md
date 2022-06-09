@@ -15,9 +15,7 @@ A continuacion una breve explicacion sobre cada una de ella.
 #### Ejemplo:
 <a class="fcc-btn" href="http://localhost:8888/view/Untitled%20Folder/your_report.html">Click aqui para ver un ejemplo de Pandas Profiling</a>
 
-
-
-<img src="https://github.com/f3derico1991/Reportes-express/blob/master/Reportes_con_python/imagenes/0_nyIppLKXNHlrR9_4.gif" width="650" height="500" />
+<img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/0_nyIppLKXNHlrR9_4.gif" width="650" height="500" />
 
 
 ## Sweetviz:
