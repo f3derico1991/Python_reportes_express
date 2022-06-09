@@ -13,7 +13,7 @@ A continuacion una breve explicaion sobre cada una de ella.
 #### Pandas profiling es una libreria de Python con la cual podemos realizar rápidamente un análisis exploratorio de datos en pocas líneas de código. Además, esta genera informes interactivos en formato web que pueden ser presentados a cualquier persona, aunque no sepa programar.En resumen, lo que hace pandas profiling es fasilitar el trabajo de visualizar y entender la distribución de cada variable. Nos genera un informe con toda la información fácilmente visible.
 
 #### Ejemplo:
-<a class="fcc-btn" href="">Click aqui para ver un ejemplo de Pandas Profiling</a>
+<a class="fcc-btn" href="http://localhost:8888/view/Untitled%20Folder/your_report.html">Click aqui para ver un ejemplo de Pandas Profiling</a>
 
 <img src="https://github.com/f3derico1991/Reportes-express/blob/master/Reportes_con_python/imagenes/0_nyIppLKXNHlrR9_4.gif" width="650" height="500" />
 
