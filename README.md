@@ -27,6 +27,4 @@ A continuacion una breve explicacion sobre cada una de ella.
 #### Ejemplo:
 <a class="fcc-btn" href="http://localhost:8888/view/Untitled%20Folder/SWEETVIZ_REPORT.html">Click aqui para ver un ejemplo de Sweetviz</a> 
 
-
-
 <img src="https://miro.medium.com/max/700/1*B5NkjnuUXyCOQ1hwsHFPYA.gif" width="650" height="500" />
