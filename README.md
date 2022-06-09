@@ -1,9 +1,9 @@
 # Reportes express con python
 Python nos brinda la posibilidad de generar reportes de un conjunto de datos de manera rapida, para ello disponemos de dos librerias:
 *  *Pandas Profiling*
-*  *Sweetvez*
+*  *Sweetviz*
 
-A continuacion una breve explicaion sobre cada una de ella.
+A continuacion una breve explicacion sobre cada una de ella.
 
 
 ## Pandas profiling:
