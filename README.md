@@ -15,15 +15,20 @@ A continuacion una breve explicaion sobre cada una de ella.
 #### Ejemplo:
 <a class="fcc-btn" href="http://localhost:8888/view/Untitled%20Folder/your_report.html">Click aqui para ver un ejemplo de Pandas Profiling</a>
 
+
+
 <img src="https://github.com/f3derico1991/Reportes-express/blob/master/Reportes_con_python/imagenes/0_nyIppLKXNHlrR9_4.gif" width="650" height="500" />
 
 
 ## Sweetviz:
+
 <img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/sweetvez.png" width="400" height="200" />
 
 #### Sweetviz es una biblioteca de Python maravillosa y muy útil que nos proporciona la EDA de un conjunto de datos dado con solo 2 líneas de código. Genera un informe de página HTML independiente con visualizaciones interactivas de un conjunto de datos.
 
 #### Ejemplo:
 <a class="fcc-btn" href="http://localhost:8888/view/Untitled%20Folder/SWEETVIZ_REPORT.html">Click aqui para ver un ejemplo de Sweetviz</a> 
+
+
 
 <img src="https://miro.medium.com/max/700/1*B5NkjnuUXyCOQ1hwsHFPYA.gif" width="650" height="500" />
