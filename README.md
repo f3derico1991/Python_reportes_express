@@ -1,12 +1,12 @@
 # Reportes express con python
 Python nos brinda la posibilidad de generar reportes de un conjunto de datos de manera rapida, para ello disponemos de dos librerias:
-*  *Pandas Profiling*
-*  *Sweetviz*
+1. [*Pandas Profiling*](#id1)
+2. [*Sweetviz*](#id2)
 
 A continuacion una breve explicacion sobre cada una de ella.
 
 
-## Pandas profiling:
+## Pandas profiling:<a name="id1"></a>
 
 <img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/pandasprofiling.png" width="550" height="350" />
 
@@ -17,7 +17,7 @@ A continuacion una breve explicacion sobre cada una de ella.
 <img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/0_nyIppLKXNHlrR9_4.gif" width="650" height="500" />
 
 
-## Sweetviz:
+## Sweetviz:<a name="id2"></a>
 
 <img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/sweetvez.png" width="400" height="200" />
 
